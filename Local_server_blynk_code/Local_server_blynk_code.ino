@@ -7,8 +7,8 @@ char auth[] = "y6qhdQsR0QCk97egqsrV4xuWL22FDU2D";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "SURAG 2G";
-char pass[] = "9886343789";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
